@@ -20,7 +20,7 @@
     "@auth/eslint-config": "*",
     "@auth/use-case": "*",
     "@prisma/client": "^2.21.2",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "ts-node-dev": "^1.1.6"
   },
   "devDependencies": {
